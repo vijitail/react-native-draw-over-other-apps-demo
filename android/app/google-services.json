@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1003068426296",
+    "firebase_url": "https://pushnotificationsdemo-ea3ef.firebaseio.com",
+    "project_id": "pushnotificationsdemo-ea3ef",
+    "storage_bucket": "pushnotificationsdemo-ea3ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003068426296:android:0cb6ed50ecc4b86da13ecd",
+        "android_client_info": {
+          "package_name": "com.drawoverotherappsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003068426296-g9qcgmnjug1puvortcptff9idt2skf4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBShCafCBZsrigau-nyBhVNCUm5lw2i4rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003068426296-g9qcgmnjug1puvortcptff9idt2skf4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003068426296-nhp3ppm8agb9onaf9f4qon2ig5sebobv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.PushNotificationsDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003068426296:android:ff929d4fee15247ea13ecd",
+        "android_client_info": {
+          "package_name": "com.nativefeaturesdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003068426296-g9qcgmnjug1puvortcptff9idt2skf4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBShCafCBZsrigau-nyBhVNCUm5lw2i4rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003068426296-g9qcgmnjug1puvortcptff9idt2skf4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003068426296-nhp3ppm8agb9onaf9f4qon2ig5sebobv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.PushNotificationsDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
